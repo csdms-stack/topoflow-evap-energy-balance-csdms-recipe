@@ -1,4 +1,4 @@
-{% set name = "topoflow-evap-evap_energy-balance-csdms" %}
+{% set name = "csdms-topoflow-evap-evap_energy-balance" %}
 {% set version = "3.4" %}
 
 package:
